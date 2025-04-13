@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="248" fill="#f97316" />
+  <circle cx="256" cy="256" r="228" fill="#ffffff" />
+  
+  <!-- Mala Beads Circle -->
+  <g id="mala-beads">
+    <!-- 108 beads around the circle -->
+    <!-- We'll use 36 beads (simplified representation) -->
+    <circle cx="256" cy="60" r="12" fill="#f97316" />
+    <circle cx="292" cy="66" r="12" fill="#f97316" />
+    <circle cx="324" cy="80" r="12" fill="#f97316" />
+    <circle cx="352" cy="102" r="12" fill="#f97316" />
+    <circle cx="374" cy="130" r="12" fill="#f97316" />
+    <circle cx="390" cy="162" r="12" fill="#f97316" />
+    <circle cx="396" cy="198" r="12" fill="#f97316" />
+    <circle cx="396" cy="234" r="12" fill="#f97316" />
+    <circle cx="386" cy="270" r="12" fill="#f97316" />
+    <circle cx="368" cy="300" r="12" fill="#f97316" />
+    <circle cx="344" cy="328" r="12" fill="#f97316" />
+    <circle cx="314" cy="350" r="12" fill="#f97316" />
+    <circle cx="280" cy="366" r="12" fill="#f97316" />
+    <circle cx="244" cy="374" r="12" fill="#f97316" />
+    <circle cx="208" cy="372" r="12" fill="#f97316" />
+    <circle cx="174" cy="362" r="12" fill="#f97316" />
+    <circle cx="142" cy="342" r="12" fill="#f97316" />
+    <circle cx="116" cy="316" r="12" fill="#f97316" />
+    <circle cx="96" cy="284" r="12" fill="#f97316" />
+    <circle cx="84" cy="250" r="12" fill="#f97316" />
+    <circle cx="80" cy="214" r="12" fill="#f97316" />
+    <circle cx="84" cy="178" r="12" fill="#f97316" />
+    <circle cx="96" cy="144" r="12" fill="#f97316" />
+    <circle cx="116" cy="114" r="12" fill="#f97316" />
+    <circle cx="144" cy="88" r="12" fill="#f97316" />
+    <circle cx="174" cy="70" r="12" fill="#f97316" />
+    <circle cx="208" cy="60" r="12" fill="#f97316" />
+  </g>
+  
+  <!-- Center Lotus Symbol -->
+  <g id="lotus">
+    <path d="M256,178 C270,200 290,214 320,220 C290,226 270,240 256,262 C242,240 222,226 192,220 C222,214 242,200 256,178 Z" fill="#f97316" />
+    <path d="M256,225 C268,245 285,258 310,264 C285,270 268,283 256,303 C244,283 227,270 202,264 C227,258 244,245 256,225 Z" fill="#f97316" />
+    <path d="M236,232 C246,252 260,262 285,268 C260,274 246,284 236,304 C226,284 212,274 187,268 C212,262 226,252 236,232 Z" fill="#f97316" transform="rotate(40, 256, 256)" />
+    <path d="M236,232 C246,252 260,262 285,268 C260,274 246,284 236,304 C226,284 212,274 187,268 C212,262 226,252 236,232 Z" fill="#f97316" transform="rotate(80, 256, 256)" />
+    <path d="M236,232 C246,252 260,262 285,268 C260,274 246,284 236,304 C226,284 212,274 187,268 C212,262 226,252 236,232 Z" fill="#f97316" transform="rotate(120, 256, 256)" />
+    <path d="M236,232 C246,252 260,262 285,268 C260,274 246,284 236,304 C226,284 212,274 187,268 C212,262 226,252 236,232 Z" fill="#f97316" transform="rotate(160, 256, 256)" />
+    
+    <!-- Center Circle -->
+    <circle cx="256" cy="256" r="24" fill="#f97316" />
+  </g>
+</svg>
